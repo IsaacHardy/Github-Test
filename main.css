@@ -2,15 +2,3 @@
   padding: 5em;
   background: green;
 }
-.ruby{
-  animation: pulse .1s infinite;
-}
-
-@keyframes pulse {
-  0% {
-    background-color: white;
-  }
-  100% {
-    background-color: #FF4136;
-  }
-}
